@@ -19,4 +19,4 @@ This page describes our low-cost simple LoRa gateway based on a Raspberry PI and
 Read Setup_Guide.pdf for more information
 
 # 4. Tutorial
-Youtube link:
+Youtube link: https://youtu.be/k79x8mQ7IXw
