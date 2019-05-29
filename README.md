@@ -16,7 +16,7 @@ This page describes our low-cost simple LoRa gateway based on a Raspberry PI and
 5- RFM95 breakout, 2 layer board of 29x37mm https://bit.ly/2JHp2TL
 
 # 3. Software
-Read Setup_Guide.pdf for more information
+Read "Setup_Guide.pdf" for more information
 
 # 4. Tutorial
 Youtube link: https://youtu.be/k79x8mQ7IXw
